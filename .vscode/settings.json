@@ -1,0 +1,29 @@
+{
+    "vetur.format.defaultFormatter.html": "prettier",
+    "files.autoSave": "onFocusChange", // 自动保存
+    "editor.formatOnSave": true, // 保存时自动匹配
+    "editor.tabSize": 4,
+    "editor.foldingStrategy": "indentation",
+    "editor.minimap.enabled": false, // 禁用编辑器minimap
+    "emmet.triggerExpansionOnTab": true, // tab补全
+    "emmet.includeLanguages": {
+        "vue-html": "html",
+        "vue": "html"
+    },
+    "[javascript]": {
+        "editor.formatOnSave": true,
+        "editor.defaultFormatter": "esbenp.prettier-vscode" //保存时自动规范代码
+    },
+    "[html]": {
+        "editor.defaultFormatter": "esbenp.prettier-vscode"
+    },
+    "[css]": {
+        "editor.defaultFormatter": "esbenp.prettier-vscode"
+    },
+    "[less]": {
+        "editor.defaultFormatter": "esbenp.prettier-vscode"
+    },
+    "[vue]": {
+        "editor.defaultFormatter": "esbenp.prettier-vscode"
+    }
+}
