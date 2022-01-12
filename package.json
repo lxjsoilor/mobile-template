@@ -18,7 +18,7 @@
     "core-js": "^3.6.5",
     "fastclick": "^1.0.6",
     "js-cookie": "^2.2.1",
-    "markdown-it": "^11.0.0",
+    "markdown-it": "^12.3.2",
     "postcss-px2rem": "^0.3.0",
     "vant": "^2.9.1",
     "vconsole": "^3.3.4",
